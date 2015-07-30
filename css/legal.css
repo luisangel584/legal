@@ -125,8 +125,11 @@ float:center;
 } 
 .logo-footer{
 
-padding-right:10px;
+
 width:80px;
+margin:0 auto;
+display:block;
+
 
 }
 .separador1 {
@@ -191,15 +194,9 @@ padding-left:10px;
 text-align: center;
 color:white;
 }
-
-
-
-
-
-
-
-
-
+.footer-socialmedia img:hover{
+	opacity: 0.5;
+}
 
 
 
