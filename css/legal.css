@@ -116,6 +116,83 @@ body{
     color: aliceblue;
 }
 
+/*footer*/
+
+
+.footer{
+float:center;
+  background: #45423B;
+} 
+.logo-footer{
+
+padding-right:10px;
+width:80px;
+
+}
+.separador1 {
+
+display:block;
+width:25%;
+height:20px;
+float:left;
+background:#02B1DE;
+}
+.separador2{
+
+display:block;
+width:25%;
+height:20px;
+float:left;
+background:#A2C800;
+}
+
+.separador3{
+
+display:block;
+width:25%;
+height:20px;
+float:left;
+background:#FF634C;
+}
+.separador4{
+
+display:block;
+width:25%;
+height:20px;
+float:left;
+background:#FFC000;
+}
+.footer-socialmedia{
+padding-left:85px;
+padding-top:40px;
+}
+.footer-socialmedia ul{
+display:inline;
+
+list-style:none;
+
+}
+.footer-socialmedia li{
+
+ display: inline;
+
+}
+.footer-contacto{
+padding-left:100px;
+color:white;
+}
+
+.footer-derecho{
+padding-left:2px;
+color:white;
+}
+.footer-central{
+padding-left:10px;
+text-align: center;
+color:white;
+}
+
+
 
 
 
