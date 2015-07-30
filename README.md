@@ -1,0 +1,2 @@
+# legal
+Web page Legal
