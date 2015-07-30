@@ -1,0 +1,35 @@
+body{
+    background: -webkit-linear-gradient(left, #79766B , #79766B); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #79766B, #79766B); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #79766B, #79766B); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #79766B , #79766B); /* Standard syntax (must be last) */
+}
+
+.menu{
+    background: #0181A1;
+    width: 100%;
+    height: 60px;
+    color: antiquewhite;
+}
+
+.menu .menu-logo{
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    top: 10px;
+}
+
+.menu .menu-slogan{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-size: 16px;
+}
+
+.menu .menu-menu{
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    top: 10px;
+}
