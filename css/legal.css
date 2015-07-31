@@ -166,7 +166,7 @@ float:left;
 background:#FFC000;
 }
 .footer-socialmedia{
-padding-left:85px;
+padding-left:58px;
 padding-top:40px;
 }
 .footer-socialmedia ul{
@@ -181,7 +181,7 @@ list-style:none;
 
 }
 .footer-contacto{
-padding-left:100px;
+padding-left:73px;
 color:white;
 }
 
@@ -197,6 +197,9 @@ color:white;
 .footer-socialmedia img:hover{
 	opacity: 0.5;
 }
+
+
+
 
 
 
