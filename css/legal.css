@@ -84,6 +84,9 @@ body{
     transition: 0.5s;
 }
 
+textarea{
+    resize: none;
+}
 
 .index .section1{
     width: 100%;
@@ -322,6 +325,47 @@ margin-left:-10px;
 
 
 }
+
+/*Contacto*/
+
+.contacto .section1{
+    background: aliceblue;
+}
+
+.contacto .form-card{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.contacto .form-card h1{
+    text-align: center;
+}
+
+.contacto .form-card p{
+    text-align: center;
+}
+
+.contacto .form-card .btn{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
