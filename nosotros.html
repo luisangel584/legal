@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/legal.css"/>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
 </head>
 <body class="index">
 
@@ -16,7 +19,19 @@
                 <!-- Menu -->
                 <div class="row">
                     <div class="col-md-12 col-xs-12 menu">
-                        <div class="row">
+                        <div class="row collapse" id="menu-collapse">
+                            <div class="col-md-2 col-xs-2"></div>
+                            <div class="col-md-8 col-xs-8">
+                                <ul>
+                                    <li>Nosotros</li>
+                                    <li>Servicios</li>
+                                    <li>Recursos</li>
+                                    <li>Contacto</li>
+                                </ul>
+                            </div>
+                            <div class="col-md-2 col-xs-2"></div>
+                        </div>
+                        <div class="row" id="menu-control">
                             <div class="col-md-1 col-xs-1"></div>
                             <div class="col-md-10 col-xs-10">
                                 <div class="row">
@@ -29,7 +44,9 @@
                                         </p>
                                     </div>
                                     <div class="col-md-2 col-xs-2 menu-menu">
-                                        <i class="glyphicon glyphicon-menu-hamburger"></i>
+                                        <a href="#menu-collapse" data-toggle="collapse">
+                                            <i class="glyphicon glyphicon-menu-hamburger"></i>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
