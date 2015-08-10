@@ -436,6 +436,24 @@ margin-left:-10px;
 
 
 
+/*
+**      Infantil
+*/
+
+.infantil{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.infantil h1, .infantil h3{
+    text-align: center;
+}
+
+.infantil p, .infantil li{
+    text-align: justify;
+}
+
+
 
 
 
