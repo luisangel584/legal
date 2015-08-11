@@ -578,6 +578,39 @@ font-family: "Times New Roman", Times, serif;
     text-align: justify;
 }
 
+/*
+**      Recursos
+*/
+
+.recursos{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.recursos h1, .recursos h3{
+    text-align: center;
+}
+
+.recursos p, .recursos li{
+    text-align: justify;
+}
+
+.recursos .item-recurso{
+    min-height: 300px;
+    border-left: 1px solid #999;
+}
+
+.recursos .recurso-target{
+    box-shadow: #888 2px 2px 30px 5px;
+    margin-bottom: 15px;
+}
+
+.recursos .btn{
+    position: absolute;
+    bottom: 15px;
+    right: 20%;
+}
+
 
 
 
