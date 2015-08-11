@@ -4,10 +4,10 @@ html{
 }
 
 body{
-    background: -webkit-linear-gradient(left, #79766B , #79766B); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(right, #79766B, #79766B); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(right, #79766B, #79766B); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(to right, #79766B , #79766B); /* Standard syntax (must be last) */
+    background: -webkit-linear-gradient(left, #00535D , #005762); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #00535D, #005762); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #00535D, #005762); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #00535D , #005762); /* Standard syntax (must be last) */
 }
 
 .container{
@@ -124,8 +124,9 @@ body{
     text-align: justify;
 }
 
-.index .index-target{
-
+.index .index-target a{
+    text-decoration: none;
+    color: inherit;
 }
 
 .index .index-item{
