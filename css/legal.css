@@ -162,6 +162,25 @@ textarea{
 float:center;
   background: #45423B;
 } 
+
+.footer-derecho{
+
+font-family:"Courier New", Courier, monospace;
+font-size:20px;
+}
+
+.footer-central{
+
+font-family:"Courier New", Courier, monospace;
+font-size:15px;
+}
+
+.footer-contacto{
+
+font-family:"Courier New", Courier, monospace;
+font-size:14px;
+}
+
 .logo-footer{
 
 
@@ -171,7 +190,6 @@ display:block;
 
 
 }
-
 .separador1 {
 
 display:block;
@@ -240,6 +258,10 @@ color:white;
 
 /*nosotros*/
 
+.tituabout{
+font-size:30px;
+font-family: "Times New Roman", Times, serif;
+}
 .nosotrossection1{
 	width: 100%;
     height: auto;
@@ -247,7 +269,8 @@ color:white;
     padding-bottom: 50px;
     background: rgb(255,255,255);
     color: #222;
-	
+	font-size:15px;
+font-family: "Times New Roman", Times, serif;
 	}
 	.nosotrossection2{
 	width: 100%;
@@ -255,7 +278,8 @@ color:white;
     padding-top: 50px;
     padding-bottom: 50px;
     background: rgb(255,255,255);
-    
+	font-family: "Times New Roman", Times, serif;
+    font-size:15px;
 	
 	}
 	.nosotrossection3{
@@ -264,8 +288,8 @@ color:white;
     padding-top: 50px;
     padding-bottom: 50px;
     background: rgb(255,255,255);
-    
-	
+    font-family: "Times New Roman", Times, serif;
+	font-size:20px;
 	}
 	.tituabout{
 	
@@ -273,6 +297,13 @@ color:white;
 	text-align:center;
 	
 	}
+	.valoresnosotros{
+	margin-left:200px;
+	font-family: "Times New Roman", Times, serif;
+	font-size:20px;
+	
+	}
+	
 	
 .equipotitu{
 margin-top:-30px;
@@ -305,6 +336,27 @@ width:310px;
 height:310px;
 margin-left:-18px;
 }
+
+.nosotrosImg21{
+display:block;
+width:310px;
+height:310px;
+margin-left:-70px;
+
+}
+.nosotrosImg22{
+display:block;
+height:310px;
+margin-left:80px;
+width:310px;
+}
+.nosotrosImg23{
+display:block;
+width:310px;
+height:310px;
+margin-left:-18px;
+}
+
 .titunosotros{
 margin-left:80px;
 text-align:center;
@@ -338,30 +390,66 @@ text-align:center;
   
   margin-left:80px;
 }
-.imgmien1{
-width:380px;
-height:680px;
-margin-left:-10px;
-}
 
-.imgmien2{
 
-width:380px;
-height:680px;
-margin-left:-10px;
-}
+/*caracteriticas*/
+.caracteristicas-delitos{
 
-.imgmien3{
-width:380px;
-height:680px;
-margin-left:-10px;
-
-}
-
-.InfoMien1{
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: rgb(255,255,255);
+	
 
 
 }
+
+.titucaracteri{
+font-family: "Times New Roman", Times, serif;
+    font-size:25px;
+
+
+}
+
+.caractparraf{
+font-family: "Times New Roman", Times, serif;
+    font-size:20px;
+text-align: justify;
+}
+
+.nosotrosImgrobo{
+margin-left:200px;
+width:130%;
+}
+/*Clasificacion*/
+.clasificacion{
+height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: rgb(255,255,255);
+
+
+}  
+.tituclasificac{
+font-family: "Times New Roman", Times, serif;
+    font-size:40px;
+text-align: center;
+}
+
+.tituclasificac3{
+font-family: "Times New Roman", Times, serif;
+    font-size:30px;
+
+}
+.parrafoclasifi{
+
+font-family: "Times New Roman", Times, serif;
+    font-size:18px;
+
+}
+
+
+
 
 /*Contacto*/
 
@@ -418,7 +506,7 @@ margin-left:-10px;
 }
 
 /*
-**      SituaciÃ³n
+**      Situación
 */
 
 .situacion{
