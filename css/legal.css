@@ -171,13 +171,14 @@ display:block;
 
 
 }
+
 .separador1 {
 
 display:block;
 width:25%;
 height:20px;
 float:left;
-background:#02B1DE;
+background:#3f888f;
 }
 .separador2{
 
@@ -185,7 +186,7 @@ display:block;
 width:25%;
 height:20px;
 float:left;
-background:#A2C800;
+background:#c0a062;
 }
 
 .separador3{
@@ -194,7 +195,7 @@ display:block;
 width:25%;
 height:20px;
 float:left;
-background:#FF634C;
+background:#c0a062;
 }
 .separador4{
 
@@ -202,7 +203,7 @@ display:block;
 width:25%;
 height:20px;
 float:left;
-background:#FFC000;
+background:#3f888f;
 }
 .footer-socialmedia{
 padding-left:58px;
@@ -417,7 +418,7 @@ margin-left:-10px;
 }
 
 /*
-**      Situación
+**      SituaciÃ³n
 */
 
 .situacion{
