@@ -301,8 +301,8 @@ font-family: "Times New Roman", Times, serif;
     height: auto;
     padding-top: 50px;
     padding-bottom: 50px;
-    background: rgb(255,255,255);
-    color: #222;
+    background: aliceblue;
+   
 	font-size:15px;
 font-family: "Times New Roman", Times, serif;
 	}
@@ -311,7 +311,7 @@ font-family: "Times New Roman", Times, serif;
     height: auto;
     padding-top: 50px;
     padding-bottom: 50px;
-    background: rgb(255,255,255);
+    background: aliceblue;
 	font-family: "Times New Roman", Times, serif;
     font-size:15px;
 
@@ -321,17 +321,18 @@ font-family: "Times New Roman", Times, serif;
     height: auto;
     padding-top: 50px;
     padding-bottom: 50px;
-    background: rgb(255,255,255);
+    background: aliceblue;
     font-family: "Times New Roman", Times, serif;
 	font-size:20px;
 	}
 	.tituabout{
 
-	color:#333;
+      background: aliceblue;
 	text-align:center;
 
 	}
 	.valoresnosotros{
+		background: aliceblue;
 	margin-left:200px;
 	font-family: "Times New Roman", Times, serif;
 	font-size:20px;
@@ -432,7 +433,7 @@ text-align:center;
     height: auto;
     padding-top: 50px;
     padding-bottom: 50px;
-    background: rgb(255,255,255);
+    background: background: aliceblue;;
 }
 
 .caracteristicas-delitos h1{
@@ -440,10 +441,12 @@ text-align:center;
 }
 
 .caracteristicas-delitos li{
+	background: aliceblue;
     text-align: justify;
 }
 
 .titucaracteri{
+	background: aliceblue;
 font-family: "Times New Roman", Times, serif;
     font-size:25px;
 
@@ -451,6 +454,7 @@ font-family: "Times New Roman", Times, serif;
 }
 
 .caractparraf{
+	background: aliceblue;
 font-family: "Times New Roman", Times, serif;
     font-size:20px;
 text-align: justify;
@@ -465,23 +469,25 @@ width:130%;
 height: auto;
     padding-top: 50px;
     padding-bottom: 50px;
-    background: rgb(255,255,255);
+    background: aliceblue;
 
 
 }
 .tituclasificac{
+	background: aliceblue;
 font-family: "Times New Roman", Times, serif;
     font-size:40px;
 text-align: center;
 }
 
 .tituclasificac3{
+	background: aliceblue;
 font-family: "Times New Roman", Times, serif;
     font-size:30px;
 
 }
 .parrafoclasifi{
-
+background: aliceblue;
 font-family: "Times New Roman", Times, serif;
     font-size:18px;
 
@@ -545,7 +551,7 @@ font-family: "Times New Roman", Times, serif;
 }
 
 /*
-**      Situación
+**      SituaciÃ³n
 */
 
 .situacion{
@@ -583,7 +589,7 @@ font-family: "Times New Roman", Times, serif;
 
 
 /*
-**      Clasificación
+**      ClasificaciÃ³n
 */
 
 .clasificacion{
