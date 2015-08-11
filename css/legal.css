@@ -543,6 +543,46 @@ font-family: "Times New Roman", Times, serif;
 }
 
 
+/*
+**      Clasificación
+*/
+
+.clasificacion{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.clasificacion h1, .clasificacion h3{
+    text-align: center;
+}
+
+.clasificacion p, .clasificacion li{
+    text-align: justify;
+}
+
+
+/*
+**      Control
+*/
+
+.control{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.control h1, .control h3{
+    text-align: center;
+}
+
+.control p, .control li{
+    text-align: justify;
+}
+
+
+
+
+
+
 
 
 
